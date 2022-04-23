@@ -1,4 +1,4 @@
-## Hi there! I'm Mário Júnior (It's me, Mario!) 😆
+## Hi there! I'm Mário Júnior (It's me, Mario!)
 
 - 🖥️ I’m currently a Front-end developer, working on career transition to the Tech Area
 - 🌱 I’m now learning Database and Back-end
