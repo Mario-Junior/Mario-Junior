@@ -1,4 +1,4 @@
-### Hi there! I'm Mário Júnior (It's me, Mario!) 😆
+## Hi there! I'm Mário Júnior (It's me, Mario!) 😆
 
 - 🖥️ I’m currently a Front-end developer, working on career transition to the Tech Area
 - 🌱 I’m now learning Database and Back-end
@@ -9,10 +9,13 @@
 
 <div>
   <a href="https://github.com/Mario-Junior">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mario-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Junior&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mario-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Junior&layout=compact&langs_count=7&theme=dark"/>
   <img src="https://github.com/Mario-Junior/Mario-Junior/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
+  ## Streak Stats Activity
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mario-Junior&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mario-Junior-Linux" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
