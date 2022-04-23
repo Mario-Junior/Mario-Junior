@@ -18,7 +18,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Mario-Junior-Linux" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Mario-Junior-Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Mario-Junior-GitHub" height="45" width="60" background-color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="Mario-Junior-GitHub" height="45" width="45" src="https://user-images.githubusercontent.com/89809954/164948738-ee34e00c-08bf-4fa2-a67f-86f33f9a008a.png" />
   <img align="center" alt="Mario-Junior-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Mario-Junior-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Mario-Junior-JS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -29,7 +29,6 @@
   <img align="center" alt="Mario-Junior-MySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br><br><br>
   <img align="right" alt="Mario-Junior-Octocat" height="300" width="330" src="https://user-images.githubusercontent.com/89809954/164816186-a78a193f-446b-4273-b560-88149751c9ff.png" />
 </div><br>
-
   
 ## Streak Stats Activity
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mario-Junior&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
