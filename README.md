@@ -14,9 +14,7 @@
   <img src="https://github.com/Mario-Junior/Mario-Junior/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
-  ## Streak Stats Activity
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mario-Junior&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+## Learned Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Mario-Junior-Linux" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Mario-Junior-Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -30,10 +28,14 @@
   <img align="center" alt="Mario-Junior-Docker" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Mario-Junior-MySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="right" alt="Mario-Junior-Octocat" height="300" width="330" src="https://user-images.githubusercontent.com/89809954/164816186-a78a193f-446b-4273-b560-88149751c9ff.png" />
-</div>
-  
-##
+</div><br>
 
+  
+## Streak Stats Activity
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mario-Junior&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+  
+## Contact me
 <div>
   <a href="https://www.linkedin.com/in/mariojr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariojuniorprofissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
