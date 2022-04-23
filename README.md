@@ -26,7 +26,7 @@
   <img align="center" alt="Mario-Junior-React" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mario-Junior-Redux" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Mario-Junior-Docker" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Mario-Junior-MySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Mario-Junior-MySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br><br>
   <img align="right" alt="Mario-Junior-Octocat" height="300" width="330" src="https://user-images.githubusercontent.com/89809954/164816186-a78a193f-446b-4273-b560-88149751c9ff.png" />
 </div><br>
 
