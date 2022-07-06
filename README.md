@@ -28,8 +28,10 @@
   <img align="center" alt="Mario-Junior-Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Mario-Junior-MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Mario-Junior-Nodejs" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <br>    
-  <img align="right" alt="Mario-Junior-Octocat" height="300" width="300" src="https://github.com/Mario-Junior/mario-junior.github.io/blob/main/octocat-me.png" />
+  <br>
+  
+  <img align="right" alt="Mario-Junior-Octocat" height="300" width="300" src="https://i.ibb.co/Rb8xp5P/octocat-me.png" />
+  
 </div><br>
   
 ## Streak Stats Activity
