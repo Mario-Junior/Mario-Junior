@@ -1,7 +1,7 @@
 ## Hi there! I'm Mário Júnior (It's me, Mario!)
 
 - 🖥️ I’m currently a Front-end developer, working on career transition to the Tech Area
-- 🌱 I’m now learning Database and Back-end
+- 🌱 I’m now learning Back-end
 - 👀 I’m looking to collaborate on tech projects
 - 💬 Ask me about tech, finance, music, books
 - 📫 Contact me by email: mariojuniorprofissional@gmail.com
