@@ -1,7 +1,7 @@
 ## Hi there! I'm Mário Júnior ("It's me, Mario!")
 
 - 🖥️ I’m currently a Full Stack JavaScript and Backend C# .NET developer
-- 🌱 I’m now learning and getting deeper in Design Patterns
+- 🌱 I’m now learning and getting deeper in Clean Architecture
 - 👀 I’m looking to collaborate on tech projects
 - 💬 Ask me about tech, finance, music, books
 - 📫 Contact me by email: mariojuniorprofissional@gmail.com
