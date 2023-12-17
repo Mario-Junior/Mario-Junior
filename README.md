@@ -1,9 +1,9 @@
 ## Hi there! I'm Mário Júnior ("It's me, Mario!")
 
-- 🖥️ I’m currently a Full Stack JavaScript and Backend C# .NET developer
+- 🖥️ I’m currently a Backend C# .NET and Full Stack JavaScript developer
 - 🌱 I’m now learning and getting deeper in _Event-Driven Architecture_
-- 👀 I’m looking to collaborate on tech projects
-- 💬 Ask me about tech, finance, music, books
+- 👀 I’m looking to collaborate on Open Source tech projects
+- 💬 Ask me about tech, music and books
 - 📫 Contact me by email: mariojuniorprofissional@gmail.com
 - ⚡ Fun fact: I've been craving the Tech Area since I was very young, 12 years old 😅
 
