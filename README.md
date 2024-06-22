@@ -7,7 +7,7 @@ Software Engineer / Systems Analyst with 2 years of solid experience. I have goo
 - 📫 Get in touch by email: mariojuniorprofissional@gmail.com
 - ⚡ Fun fact: I’ve wanted the technology field since I was 12 years old, and I only managed to realize my dream when I was 40😅
 
-<p align='left'>
+<p align='center'>
   <a href="https://github.com/Mario-Junior">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mario-Junior&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Junior&layout=compact&langs_count=7&theme=default"/>
@@ -36,6 +36,6 @@ Software Engineer / Systems Analyst with 2 years of solid experience. I have goo
 - Dynatrace, Grafana, AppDynamics, Datadog, Zabbix
 - GitHub, GitHub Copilot
 
-<br>
-
-<img align="left" alt="Mario-Junior-Octocat" height="300" width="300" src="https://i.ibb.co/Rb8xp5P/octocat-me.png" />
+<div align="center">
+  <img alt="Mario-Junior-Octocat" height="300" width="300" src="https://i.ibb.co/Rb8xp5P/octocat-me.png" />
+</div>
