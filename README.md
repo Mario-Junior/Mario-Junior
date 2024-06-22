@@ -21,7 +21,7 @@ Software Engineer / Systems Analyst with 2 years of solid experience. I have goo
 📫 How to reach me: <a href='mailto: mariojuniorprofissional@gmail.com'>mariojuniorprofissional@gmail.com</a>
 </p>
 
-## Highlights
+## Professional Highlights
 - I reduced processing and payment time for asset income from a week by one day, still mitigating possible human errors, developing and implementing a new application with a brand-new payment flow, moving from a totally manual process to an automated one. Using Event-Driven Architecture patterns, receiving and processing the payments messages events coming from an external system, validating and enriching these messages through another external pricing application. Then, orchestrating the entire flow to the next steps in the payments process;
 - Working with total focus on customers, I developed a support process for resolving incidents, generating a reduction in the average number of cases in the queue from 80 to less than 10 and a reduction in response time to customers from more than 4 weeks to 3 days or less. This contributed greatly to the release of the team's efforts to develop and evolve new applications;
 - At the new Squad where I started in December 2023, I analyzed the structure of all 9 applications and critical journeys, created and documented the HLA (High Level Architecture) designs for all the applications mentioned and created and detailed Squad's processes in the company's technology community. Resulting in greater organization and understanding for the entire team.
