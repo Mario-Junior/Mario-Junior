@@ -1,6 +1,8 @@
 # Hi there! I'm Mário Júnior ("It's-a me, Mario!")
 
+<p align='justify'>
 Software Engineer / Systems Analyst with 2 years of solid experience. I have good knowledge in backend development on C#, .NET platform, of high performance and resilience applications and microservices.
+</p>
 
 <p align='left'>
 🌱 Now I'm learning and getting deeper into _Event-Driven Architecture_
