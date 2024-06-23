@@ -2,10 +2,18 @@
 
 Software Engineer / Systems Analyst with 2 years of solid experience. I have good knowledge in backend development on C#, .NET platform, of high performance and resilience applications and microservices.
 
-- 🌱 Now I'm learning and getting deeper into _Event-Driven Architecture_
-- 💬 Ask me about technology, music and books
-- 📫 Get in touch by email: mariojuniorprofissional@gmail.com
-- ⚡ Fun fact: I’ve wanted the technology field since I was 12 years old, and I only managed to realize my dream when I was 40😅
+<p align='left'>
+🌱 Now I'm learning and getting deeper into _Event-Driven Architecture_
+</p>
+<p align='left'>
+💬 Ask me about technology, music and books
+</p>
+<p align='left'>
+📫 Get in touch by email: mariojuniorprofissional@gmail.com
+</p>
+<p align='left'>
+⚡ Fun fact: I’ve wanted the technology field since I was 12 years old, and I only managed to realize my dream when I was 40😅
+</p>
 
 <p align='center'>
   <a href="https://github.com/Mario-Junior">
