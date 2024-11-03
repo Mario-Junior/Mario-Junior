@@ -14,7 +14,7 @@ Software Engineer / Systems Analyst with 2 years of solid experience. I have goo
 📫 Get in touch by email: mariojuniorprofissional@gmail.com
 </p>
 <p align='left'>
-⚡ Fun fact: I’ve wanted the technology field since I was 12 years old, and I only managed to realize my dream when I was 40😅
+⚡ Fun fact: I’ve wanted the technology field since I was 12 years old, and I only managed to realize my dream when I was 40 😅
 </p>
 
 <p align='center'>
