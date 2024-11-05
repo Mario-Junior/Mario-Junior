@@ -5,7 +5,7 @@ Software Engineer / Systems Analyst with 2 years of solid experience. I have goo
 </p>
 
 <p align='left'>
-🌱 Now I'm learning and getting deeper into <i>Memory Cache</i>
+🌱 Now I'm learning and getting deeper into <i>Clean Architecture</i>
 </p>
 <p align='left'>
 💬 Ask me about technology, music and books
