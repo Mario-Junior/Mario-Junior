@@ -5,7 +5,7 @@ Software Engineer / Systems Analyst with 2 years of solid experience. I have goo
 </p>
 
 <p align='left'>
-🌱 Now I'm learning and getting deeper into <i>Algorithms</i>.
+🌱 Now I'm learning and getting deeper into <i>Systems Analysis and Development</i>.
 </p>
 <p align='left'>
 💬 Ask me about technology, music and books
