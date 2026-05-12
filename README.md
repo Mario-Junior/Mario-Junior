@@ -8,7 +8,7 @@ Software Engineer / Systems Analyst with 3 years of solid experience. I have goo
 🌱 Now I'm learning and getting deeper into <i>Systems Analysis and Develop - module 16 - Software Engineering & module 17 - Agile Methods</i>.
 </p>
 <p align='left'>
-💬 Ask me about technology, music and books
+💬 Ask me about technology, Christian life, music and books
 </p>
 <p align='left'>
 📫 Get in touch by email: mariojuniorprofissional@gmail.com
