@@ -5,7 +5,7 @@ Software Engineer / Systems Analyst with 3 years of solid experience. I have goo
 </p>
 
 <p align='left'>
-🌱 Now I'm learning and getting deeper into <i>Systems Analysis and Develop - module 18 - Programing Applicated Language & module 19 - NoSQL Databases</i>.
+🌱 Now I'm learning and getting deeper into <i>Systems Analysis and Develop - module 18 - Programing Applicated Language & module 19 - NoSQL Databases - bimonthly exams</i>.
 </p>
 <p align='left'>
 💬 Ask me about technology, Christian life, music and books
