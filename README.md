@@ -5,7 +5,7 @@ Software Engineer / Systems Analyst with 3 years of solid experience. I have goo
 </p>
 
 <p align='left'>
-🌱 Now I'm learning and getting deeper into <i>Systems Analysis and Develop - module 19 - Introduction to Artificial Intelligence</i>.
+🌱 Now I'm learning and getting deeper into <i>Systems Analysis and Develop - module 19 - Introduction to Artificial Intelligence and module 20 - Data Structure</i>.
 </p>
 <p align='left'>
 💬 Ask me about technology, Christian life, music and books
